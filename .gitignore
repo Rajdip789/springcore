@@ -1,0 +1,12 @@
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+.idea/
+
+# Maven target directory (generated files)
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
